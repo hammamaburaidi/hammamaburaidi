@@ -15,7 +15,7 @@ GPA: 3.30/4.00
 <br> 
 Ankara University. Ankara, Turkey. 
 <br>
-GPA: 3.60/4.00
+GPA: 3.63/4.00
 
 ## General Skills
 
