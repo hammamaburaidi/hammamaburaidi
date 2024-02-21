@@ -26,7 +26,7 @@ Swift, C/C++, JAVA, Python, JavaScript, SQL, HTML, CSS
 
 &#8209; Web development
 <br> 
-Front-end package: HTML, CSS (SCSS, Tailwind), JavaScipt (React.js, Bootstrap, jQuery)
+Front-end package: HTML, CSS (SCSS, Tailwind), JavaScipt (React.js)
 <br> 
 Back-end package: Node.js, Express.js, Spring Boot 
 <br>
