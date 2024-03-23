@@ -28,7 +28,7 @@ Swift, C/C++, JAVA, Python, JavaScript, SQL, HTML, CSS
 <br> 
 Front-end package: HTML, CSS (SCSS, Tailwind), JavaScipt (React.js)
 <br> 
-Back-end package: Node.js, Express.js, Spring Boot 
+Back-end package: Node.js/Express.js, Spring Boot 
 <br>
 
 &#8209; Database 
@@ -42,11 +42,11 @@ AWS (Amazon Web Services)
 
 &#8209; Code Editor
 <br>
-VSCode
+VSCode, intellij
 
 &#8209; UI/UX 
 <br>
-Figma, AdobeXD, Photoshop
+Figma, AdobeXD, Photoshop, illustrator
 
 &#8209; Operating System
 <br>
@@ -56,26 +56,10 @@ Windows, MacOS, Linux(Ubuntu)
 <br> 
 Problem-Solving, Critical Thinking, Teamwork and Collaboration, Communication, and Time Management.
 
-## Current Main Skill 
-&#8209; **iOS Package** 
+## Desired Tech Stack
+&#8209; **PERN stack** 
 <br>
-UIkit & SwiftUI 
-<br>
-CocoaTouch, CocoaPods
-<br>
-OOP, SOLID Principles 
-<br>
-RESTFUl APIS, Firebase
-<br>
-iOS Concurrency 
-<br>
-MVC, MVVM 
-<br>
-Alamofire, Moya, URLSession
-<br>
-Core Data, Core Animation 
-<br>
-MapKit
+PostgreSQL, Express, React and Node.js. 
 
 ## Languages I Speak
 
@@ -86,7 +70,7 @@ I am fluent in three languages, which allows me to communicate effectively and c
 
 ## What I Do
 
-💻 Based on the education I mentioned above, I work as a software engineer, where I write code and design impressive user interfaces. I have experience in various development areas, including web, iOS, and programming in languages like JAVA, C++, and Python. Nonetheless, I'm focusing on iOS development to enhance my skills and deepen my expertise in this specific field. 
+💻 Based on the education I mentioned above, I work as a software engineer, where I write code and design impressive user interfaces. I have experience in various development areas, including web, iOS, and programming in languages like JAVA, C++, and Python. Nonetheless, I'm focusing on Full-stack web development to enhance my skills and deepen my expertise in this specific field. 
 
 ## Get in Touch
 
