@@ -56,11 +56,6 @@ Windows, MacOS, Linux(Ubuntu)
 <br> 
 Problem-Solving, Critical Thinking, Teamwork and Collaboration, Communication, and Time Management.
 
-## Desired Tech Stack
-&#8209; **PERN stack** 
-<br>
-PostgreSQL, Express, React and Node.js. 
-
 ## Languages I Speak
 
 I am fluent in three languages, which allows me to communicate effectively and connect with diverse communities around the world:
@@ -70,7 +65,7 @@ I am fluent in three languages, which allows me to communicate effectively and c
 
 ## What I Do
 
-💻 Based on the education I mentioned above, I work as a software engineer, where I write code and design impressive user interfaces. I have experience in various development areas, including web, iOS, and programming in languages like JAVA, C++, and Python. Nonetheless, I'm focusing on Full-stack web development to enhance my skills and deepen my expertise in this specific field. 
+💻 Based on the education I mentioned above, I work as a software engineer, where I write code and design impressive user interfaces. I have experience in various development areas, including web, iOS, and programming in languages like JAVA, C++, and Python.
 
 ## Get in Touch
 
