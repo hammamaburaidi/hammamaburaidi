@@ -11,11 +11,17 @@ Ankara University. Ankara, Turkey.
 <br>
 GPA: 3.30/4.00
 
-&#8209; **M.S Computer Engineering** 2022-2023
+&#8209; **M.S Computer Engineering** 2022-2024
 <br> 
 Ankara University. Ankara, Turkey. 
 <br>
 GPA: 3.63/4.00
+
+&#8209; **PhD Computer Engineering** 2024-Present
+<br> 
+Ankara University. Ankara, Turkey. 
+<br>
+GPA: 3.75/4.00
 
 ## General Skills
 
